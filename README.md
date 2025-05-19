@@ -2,7 +2,7 @@
 
 ```text
 AI_Studio_Practice/
-├── data/
+├── data/          # Raw Data
 │   └── .gitkeep
 ├── important/
 │   └── main.py
